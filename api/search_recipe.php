@@ -1,6 +1,6 @@
 <?php
 
-require "../db/config.php";
+require "../db/db_config.php";
 require "../include/api_session_check.php";
 $auth = $_SESSION['auth'];
 $title = isset($_POST['title']) ? $_POST['title'] : null;

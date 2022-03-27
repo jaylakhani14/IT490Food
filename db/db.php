@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 class db
 {
@@ -6,10 +6,10 @@ class db
     private $_query;
     private $_error = false;
 
-    private $host = "localhost";
-    private $dbname = "test_food";
-    private $username = "root";
-    private $db_password = "";
+    private $host = "sql1.njit.edu";
+    private $dbname = "dq33";
+    private $username = "dq33";
+    private $db_password = "Daazaiama292118@";
 
     public function __construct()
     {

@@ -1,6 +1,6 @@
 <?php
 
-require "db.php";
+require "db_config.php";
 $db = new db();
 date_default_timezone_set("UTC");
 function uploadImage($file, $upload_path)
