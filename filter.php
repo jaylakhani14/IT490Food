@@ -1,7 +1,7 @@
 <?php
 
 require "include/session_check.php";
-require "db/config.php";
+require "db/db_config.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
