@@ -1,7 +1,7 @@
 
 const SERVERNAME = "sql1.njit.edu";
 const USERNAME = "dq33";
-const PASSWORD = "Manchester990103@";
+const PASSWORD = "Daazaiama292118@";
 const DATABASE = "dq33";
 
 // Create connection
