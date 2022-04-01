@@ -1,8 +1,8 @@
 
-const SERVERNAME = "sql1.njit.edu";
-const USERNAME = "dq33";
-const PASSWORD = "Daazaiama292118@";
-const DATABASE = "dq33";
+const HOST = "localhost";
+const USERNAME = "test_food";
+const PASSWORD = "Daanish8@";
+const DATABASE = "root";
 
 // Create connection
 $conn = new mysqli(SERVERNAME, USERNAME, PASSWORD, DATABASE);
